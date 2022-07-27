@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stock-calculator/static/css/main.f70abe78.css",
+    "main.js": "/stock-calculator/static/js/main.7624015a.js",
+    "static/js/787.de1c225a.chunk.js": "/stock-calculator/static/js/787.de1c225a.chunk.js",
+    "index.html": "/stock-calculator/index.html",
+    "main.f70abe78.css.map": "/stock-calculator/static/css/main.f70abe78.css.map",
+    "main.7624015a.js.map": "/stock-calculator/static/js/main.7624015a.js.map",
+    "787.de1c225a.chunk.js.map": "/stock-calculator/static/js/787.de1c225a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f70abe78.css",
+    "static/js/main.7624015a.js"
+  ]
+}
